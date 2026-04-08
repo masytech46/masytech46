@@ -1,5 +1,5 @@
-👾 Michael Ajayi | Cybersecurity Analyst
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Ethical+Hacker;SOC+Specialist;Threat+Hunter;Securing+Digital+Assets+24%2F7" /> </p>
+Michael Ajayi | Cybersecurity Analyst
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0000FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Ethical+Hacker;SOC+Specialist;Threat+Hunter;Securing+Digital+Assets+24%2F7" /> </p>
 🧑‍💻 About Me
 
 🔐 Cybersecurity Analyst passionate about protecting systems, networks, and data from evolving threats.
