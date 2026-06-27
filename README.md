@@ -1,54 +1,279 @@
-Michael Ajayi | Cybersecurity Analyst
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0000FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Ethical+Hacker;SOC+Specialist;Threat+Hunter;Securing+Digital+Assets+24%2F7" /> </p>
-🧑‍💻 About Me
+# 🛡️ Michael Ajayi
 
-🔐 Cybersecurity Analyst passionate about protecting systems, networks, and data from evolving threats.
-💡 I combine offensive (ethical hacking) and defensive (SOC & SIEM) strategies to build resilient security systems.
-⚡ I thrive in high-pressure environments where security is mission-critical.
+### Cybersecurity Analyst | SOC Analyst | Threat Hunter | Network Security Engineer
 
-🚀 Tech Stack & Tools
-<p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge"/> </p>
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/> </p>
-🧠 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🛡️ Cybersecurity Focus
+![Profile Views](https://komarev.com/ghpvc/?username=masytech46\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-🔴 Offensive Security
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Analyst-blue)
+![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-green)
+![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-red)
+![Incident Response](https://img.shields.io/badge/Incident-Response-orange)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-0078D4)
+![Splunk](https://img.shields.io/badge/Splunk-000000)
+![Linux](https://img.shields.io/badge/Linux-Expert-yellow)
 
-Penetration Testing
-Ethical Hacking
-Red Team Operations
-Exploit Development
+---
 
-🔵 Defensive Security
+# 👋 Welcome to My Cybersecurity Portfolio
 
-SIEM Monitoring
+I am a Cybersecurity Analyst passionate about defending organizations against cyber threats through proactive monitoring, vulnerability management, threat hunting, and incident response.
+
+My experience spans:
+
+* Security Operations Center (SOC) Activities
+* Threat Detection & Investigation
+* Vulnerability Assessment
+* Penetration Testing
+* Network Security
+* Endpoint Security
+* Risk Assessment
+* Incident Response
+* Security Awareness Training
+
+I enjoy transforming security data into actionable intelligence and helping organizations strengthen their cyber resilience.
+
+---
+
+# 🎯 Professional Impact
+
+### Security Operations
+
+✅ Identified and mitigated **500+ vulnerabilities**
+
+✅ Improved incident detection speed by **40%**
+
+✅ Reduced unauthorized access incidents by **35%**
+
+✅ Reduced high-risk exposure by **25%**
+
+✅ Improved incident response efficiency by **30%**
+
+✅ Reduced potential application security risks by **50%**
+
+---
+
+# 🔭 Current Focus
+
+* Threat Hunting
+* Microsoft Sentinel
+* Microsoft Defender XDR
+* Malware Analysis
+* Cloud Security
+* Security Automation
+* Digital Forensics
+* MITRE ATT&CK Mapping
+* Purple Team Operations
+
+---
+
+# ⚔️ Security Arsenal
+
+## Security Tools
+
+| Category          | Tools                      |
+| ----------------- | -------------------------- |
+| SIEM              | Splunk, Microsoft Sentinel |
+| Pentesting        | Nmap, Metasploit, Hydra    |
+| Mobile Security   | MobSF                      |
+| Monitoring        | Wireshark                  |
+| Endpoint Security | Microsoft Defender         |
+| Virtualization    | VMware, VirtualBox         |
+
+---
+
+## Networking
+
+```yaml
+Protocols:
+  - TCP/IP
+  - DNS
+  - HTTP
+  - HTTPS
+  - FTP
+  - SSH
+  - SMB
+
+Infrastructure:
+  - Routing
+  - Switching
+  - VLANs
+  - VPN
+  - Active Directory
+```
+
+---
+
+## Operating Systems
+
+```bash
+Windows
+Linux
+macOS
+Windows Server
+```
+
+---
+
+# 🧠 Cybersecurity Domains
+
+```text
+Threat Intelligence
 Threat Hunting
 Incident Response
-Log Analysis
-
-🟢 GRC
-
-ISO 27001
-NIST Framework
-SOC 2
+Malware Analysis
+Security Monitoring
+Network Security
+Vulnerability Management
+Security Auditing
 Risk Assessment
-🚧 Featured Projects
+Digital Forensics
+```
 
-🔐 Building real-world cybersecurity labs and tools
+---
 
-🧪 Vulnerable Lab Environments
-🕵️ SIEM Detection Use Cases
-📊 Security Dashboards
-🛠️ Custom Security Tools
-📈 Current Mission
-Mastering advanced threat hunting techniques
-Building automated security tools with Python
-Simulating real-world attack & defense scenarios
+# 🚀 Featured Projects
 
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/masytech46"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"> </a> <a href="https://www.linkedin.com/in/ajayimichael46"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"> </a> </p>
-⚡ Elite Mindset
+## 🔍 SOC Investigation Lab
 
-“Attackers only need one weakness. I make sure they find none.”
+Security investigations using:
+
+* Splunk
+* Microsoft Sentinel
+* IOC Analysis
+* Threat Intelligence
+* MITRE ATT&CK
+
+---
+
+## 🌐 Enterprise Networking Project
+
+Network implementation and security hardening:
+
+* VLAN Segmentation
+* Router Configuration
+* Switch Management
+* Network Troubleshooting
+* Access Control
+
+---
+
+## 🛡️ Vulnerability Assessment Project
+
+Using:
+
+* Nmap
+* Metasploit
+* Risk Assessment Frameworks
+
+Deliverables:
+
+* Vulnerability Reports
+* Risk Prioritization
+* Remediation Plans
+
+---
+
+## 🔥 Threat Intelligence Investigations
+
+* Malware Research
+* IOC Collection
+* Threat Actor Profiling
+* MITRE ATT&CK Mapping
+
+---
+
+# 📚 Certifications
+
+🏆 Cybersecurity Analytics — 10Alytics
+
+### In Progress
+
+* CompTIA Security+
+* Microsoft SC-900
+* Microsoft SC-200
+* CompTIA CySA+
+* Security Blue Team Level 1 (BTL1)
+
+---
+
+# 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masytech46\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masytech46\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masytech46\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=masytech46\&theme=tokyonight\&no-frame=true\&row=1)
+
+---
+
+# 🎯 2026 Roadmap
+
+* [ ] Earn Microsoft SC-200
+* [ ] Build a Production SOC Home Lab
+* [ ] Publish Threat Intelligence Reports
+* [ ] Complete Advanced Malware Analysis Projects
+* [ ] Contribute to Open-Source Security Projects
+* [ ] Earn Security Blue Team Certification
+* [ ] Become a Senior SOC Analyst
+
+---
+
+# 🧪 Current Lab Environment
+
+```yaml
+SOC Lab:
+  SIEM:
+    - Microsoft Sentinel
+    - Splunk
+
+  Monitoring:
+    - Windows Event Logs
+    - Sysmon
+
+  Security:
+    - Defender
+    - Active Directory
+
+  Virtualization:
+    - VMware
+    - VirtualBox
+
+  Analysis:
+    - Wireshark
+    - Nmap
+```
+
+---
+
+# 💡 Professional Philosophy
+
+> Detect Early. Investigate Thoroughly. Respond Effectively.
+
+---
+
+# 🤝 Connect With Me
+
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/ajayimichael46
+
+### 🌍 Location
+
+Lagos, Nigeria
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building cybersecurity labs, analyzing attack techniques, securing enterprise networks, and exploring new ways to improve cyber defense strategies.
+
+---
+
+> "Security is not a product, but a process." — Bruce Schneier
